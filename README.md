@@ -1,7 +1,7 @@
 # Chest X-ray Report Generation 
 
 |<img src="https://avatars.githubusercontent.com/hanajibsa" width="100">|<img src="https://avatars.githubusercontent.com/naajeehxe" width="100">|<img src="https://avatars.githubusercontent.com/SeongjaeP" width="100">|  
-|-|-|-|-|
+|-|-|-|
 |[김지원](https://github.com/hanajibsa)|[나지혜](https://github.com/naajeehxe)|[박성재](https://github.com/SeongjaeP)|
 
 ## Goal
@@ -27,8 +27,8 @@ MIMIC-CXR 데이터베이스는 dicom 형식의 흉부 엑스레이 이미지와
 ![image](https://github.com/hanajibsa/CXR_report_generation/assets/115071643/f85c9494-4b0a-4ea3-a839-f014229757da)
 
 Vision-language understanding task와  generation task를 통합한 VLP 프레임워크인 BLIP 파이프라인을 사용하였습니다. 각각 이미지 인코더와 텍스트 인코더, 디코더로 다음과 같은 모델을 사용하였습니다. 
-- Image encoder: ViT
-- Text encoder/decoder: medical domain-specific BERT models
+- **Image encoder:** ViT
+- **Text encoder/decoder:** medical domain-specific BERT models
     - BlueBERT
     - PubMedBERT
     - BioBERT
