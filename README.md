@@ -36,7 +36,7 @@ Vision-language understanding task와  generation task를 통합한 VLP 프레�
 
 따라서 저희는 BlueBERT를 이용해 chest x-ray 이미지를 입력하면 findings과 impression를 각각 한 문장씩 생성하여 레포트를 만드는 모델을 개발하였습니다.
 
-## Code 
+## Pretrain
 ```
 pip install -r requirements.txt
 ```
