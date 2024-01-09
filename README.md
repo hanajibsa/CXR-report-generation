@@ -1,5 +1,6 @@
 # Chest X-ray Report Generation 
 
+## Team members
 |<img src="https://avatars.githubusercontent.com/hanajibsa" width="100">|<img src="https://avatars.githubusercontent.com/naajeehxe" width="100">|<img src="https://avatars.githubusercontent.com/SeongjaeP" width="100">|  
 |-|-|-|
 |[김지원](https://github.com/hanajibsa)|[나지혜](https://github.com/naajeehxe)|[박성재](https://github.com/SeongjaeP)|
