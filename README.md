@@ -1,10 +1,5 @@
 # Chest X-ray Report Generation 
 
-## Team members
-|<img src="https://avatars.githubusercontent.com/hanajibsa" width="100">|<img src="https://avatars.githubusercontent.com/naajeehxe" width="100">|<img src="https://avatars.githubusercontent.com/SeongjaeP" width="100">|  
-|-|-|-|
-|[김지원](https://github.com/hanajibsa)|[나지혜](https://github.com/naajeehxe)|[박성재](https://github.com/SeongjaeP)|
-
 ## Goal
 ![image](https://github.com/hanajibsa/CXR_report_generation/assets/115071643/470cc7b1-f5a7-46d8-b798-d83de3fd8445)
 
@@ -60,3 +55,8 @@ BioBERT
 ```
 python train.py --pretrain_BERT pritamdeka/BioBert-PubMed200kRCT
 ```
+
+## Team members
+|<img src="https://avatars.githubusercontent.com/hanajibsa" width="100">|<img src="https://avatars.githubusercontent.com/naajeehxe" width="100">|<img src="https://avatars.githubusercontent.com/SeongjaeP" width="100">|  
+|-|-|-|
+|[김지원](https://github.com/hanajibsa)|[나지혜](https://github.com/naajeehxe)|[박성재](https://github.com/SeongjaeP)|
