@@ -1,7 +1,7 @@
 # Chest X-ray Report Generation 
 
 ## Goal
-![image](https://github.com/hanajibsa/CXR_report_generation/assets/115071643/470cc7b1-f5a7-46d8-b798-d83de3fd8445)
+![image](https://github.com/hanajibsa/CXR_report_generation/assets/115071643/d612ec52-d65b-4794-a647-1eff54cff55e)
 
 Image captioning 기술을 바탕으로 chest x-ray 이미지를 읽고 레포트를 생성하는 모델을 개발해 의료 서비스의 자동화에 기여하고자 하였습니다.
 
