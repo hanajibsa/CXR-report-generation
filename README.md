@@ -1,5 +1,9 @@
 # Chest X-ray Report Generation 
 
+|<img src="https://avatars.githubusercontent.com/hanajibsa" width="100">|<img src="https://avatars.githubusercontent.com/naajeehxe" width="100">|<img src="https://avatars.githubusercontent.com/SeongjaeP" width="100">|  
+|-|-|-|-|
+|[김지원](https://github.com/hanajibsa)|[나지혜](https://github.com/naajeehxe)|[박성재](https://github.com/SeongjaeP)|
+
 ## Goal
 ![image](https://github.com/hanajibsa/CXR_report_generation/assets/115071643/470cc7b1-f5a7-46d8-b798-d83de3fd8445)
 
@@ -32,7 +36,7 @@ Vision-language understanding task와  generation task를 통합한 VLP 프레�
 ## Result 
 <img src="https://github.com/hanajibsa/CXR_report_generation/assets/115071643/f48ad037-d314-48ff-a76f-d57d61d9400a.png" width="500" height="100"/>
 
-앞서 설명드린 세 개의 biomedical BERT를 사용하여 최종 모델의 성능을 비교한 표입니다. 저희는 이 모델들을 네 가지의 텍스트 유사성 지표를 사용해 평가했습니다. 이 표에서 score는 높을수록 생성된 문장이 실제 문장과 유사함을 의미하는데, BlueBERT가 가장 좋은 성능을 나타내는 것을 볼 수 있습니다.
+세 개의 medical domain-specific BERT models을 사용하여 최종 모델의 성능을 비교한 표입니다. 저희는 이 모델들을 네 가지의 텍스트 유사성 지표를 사용해 평가했습니다. 이 표에서 score는 높을수록 생성된 문장이 실제 문장과 유사함을 의미하는데, BlueBERT가 가장 좋은 성능을 나타내는 것을 볼 수 있습니다.
 
 따라서 저희는 BlueBERT를 이용해 chest x-ray 이미지를 입력하면 findings과 impression를 각각 한 문장씩 생성하여 레포트를 만드는 모델을 개발하였습니다.
 
