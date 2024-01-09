@@ -10,7 +10,7 @@ Image captioning 기술을 바탕으로 chest x-ray 이미지를 읽고 레포�
 
 ## Dataset 
 <img src="https://github.com/hanajibsa/CXR_report_generation/assets/115071643/9f1f8058-1614-494c-b0ab-c9233f7e27be.png" width="300" height="350"/>
-<img src="https://github.com/hanajibsa/CXR_report_generation/assets/115071643/fd53a6cd-63fb-4114-93f6-1dec2390d6d1.png" width="380" height="350"/>
+<img src="https://github.com/hanajibsa/CXR_report_generation/assets/115071643/fd53a6cd-63fb-4114-93f6-1dec2390d6d1.png" width="420" height="350"/>
 
 MIMIC-CXR 데이터베이스는 dicom 형식의 흉부 엑스레이 이미지와 텍스트로 된 방사선학 레포트으로 이루어진 대규모 공개 데이터셋 입니다. 이 데이터셋은 약  65,379명의 환자로 구성되어 있고 각 환자 당  3-4개의 연구를 수행하였습니다. 각 연구 당 하나의 레포트와 약 2개의 엑스레이 이미지를 포함합니다. 
 제한된 컴퓨팅 리소스를 고려할 때, 특정 질환에 초점을 맞추는 것이 데이터 처리의 효율을 높이는 방법이라 생각했습니다. 그래서 특히 전세계적으로 가장 높은 유병률을 가지는 폐 질환에 특화된 레포트를 생성하는 모델을 만들어서 정확성과 효율성을 높이고자 하였습니다.
