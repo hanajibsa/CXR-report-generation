@@ -30,7 +30,7 @@ Vision-language understanding task와  generation task를 통합한 VLP 프레�
     - BioBERT
 
 ## Result 
-![image](https://github.com/hanajibsa/CXR_report_generation/assets/115071643/f48ad037-d314-48ff-a76f-d57d61d9400a)
+<img src="https://github.com/hanajibsa/CXR_report_generation/assets/115071643/f48ad037-d314-48ff-a76f-d57d61d9400a.png" width="500" height="100"/>
 
 앞서 설명드린 세 개의 biomedical BERT를 사용하여 최종 모델의 성능을 비교한 표입니다. 저희는 이 모델들을 네 가지의 텍스트 유사성 지표를 사용해 평가했습니다. 이 표에서 score는 높을수록 생성된 문장이 실제 문장과 유사함을 의미하는데, BlueBERT가 가장 좋은 성능을 나타내는 것을 볼 수 있습니다.
 
